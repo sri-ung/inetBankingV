@@ -1,0 +1,7 @@
+inetbanking\Utilities\Reporting.class
+com\inetbanking\pageObjects\LoginPage.class
+inetbanking\Utilities\ReadConfig.class
+com\inetbanking\TestCases\BaseClass.class
+com\inetbanking\TestCases\TC_LoginTest_001.class
+inetbanking\Utilities\XLUtils.class
+com\inetbanking\TestCases\TC_LoginDDT_002.class
